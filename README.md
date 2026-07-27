@@ -14,7 +14,9 @@ I work at the point where clinical and commercial data turn into decisions: coho
 | [Extracting heart failure signals from clinical notes](https://github.com/johannaalbers/EHR-NLP-Heart-Failure-Analysis) | Regex based extraction of ejection fraction and medications from free text discharge summaries in MIMIC-III. Recovers the known bimodal HFrEF and HFpEF distribution, and documents where the extraction breaks rather than only where it works. |
 | [Heart disease markers, from analysis to dashboard](https://github.com/johannaalbers/heart-disease-explanatory-visualization) | Exploratory analysis in Python, then an explanatory Power BI dashboard built for a clinical audience. Translating a statistical result into something a decision maker reads in thirty seconds. |
 
-More below: survival analysis (Kaplan Meier, Cox), applied regression and missing data imputation in R, supervised classification in scikit-learn.
+**Team contribution:** [coronary risk prediction API](https://github.com/deliaBlue/coronary_disease_SP), team of seven. My part was feature engineering and exploratory analysis; the two derived features in the deployed model, pulse pressure and smoking intensity, are mine. The API and deployment were built by teammates.
+
+**Also on this profile:** survival analysis (Kaplan Meier, Cox), applied regression and missing data imputation in R, supervised classification in scikit-learn.
 
 ---
 
